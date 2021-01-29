@@ -1,6 +1,6 @@
 ### Hey there ✌🏽
 
-My name is Danny. I'm a developer fresh out of code bootcamp ready to start my career in software and ready to build!  
+My name is Danny. I'm a developer fresh out of code bootcamp excited to start my career in software and ready to build!  
 
 - 🔭 I’m currently working on ... Learing new coding languages 
 - 🌱 I’m currently learning ... C++
